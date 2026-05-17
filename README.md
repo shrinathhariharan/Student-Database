@@ -14,7 +14,7 @@ Add Grade       *//Add a grade to a select student*\
 Remove Student  *//option to remove a selected student*\
 View Students   *//gives a general class view with average and class average*\
   # More Options:
-  Save Student Grade     *//Save student info as a txt file\
+  Save Student Grade     *//Save student info as a txt file*\
   View Student Details   *//Select a specific student to view in depth grades*\
   Export All Students    *//saves the class information as a txt file*\
   View Class             *//View the name of the class*\
