@@ -1,23 +1,35 @@
 # Student-Database
 
-'.\run' to start the program
+A comprehensive classroom management system that allows teachers to organize student information, track grades, and manage class data efficiently.
 
-# Functions outside class:
-Add New Class       *//Creates a new class*\
-Import Class File   *//Import a text file that was already saved previously*\
-Delete Class        *//choose a class to delete*\
-Quit Program        *//option to end the program*\
+## Getting Started
 
-# Functions inside class:
-Add Student     *//Add a student (option to import from a file) to class*\
-Add Grade       *//Add a grade to a select student*\
-Remove Student  *//option to remove a selected student*\
-View Students   *//gives a general class view with average and class average*\
-  # More Options:
-  Save Student Grade     *//Save student info as a txt file*\
-  View Student Details   *//Select a specific student to view in depth grades*\
-  Export All Students    *//saves the class information as a txt file*\
-  View Class             *//View the name of the class*\
-  Rename Teacher         *//Change the teacher name*\
-  Rename Class           *//Change the name of the class*\
-  
+To start the program, run:
+```bash
+.\run
+```
+
+## Main Menu - Class Management
+
+- **Add New Class** - Create a new class
+- **Import Class File** - Load a previously saved class from a text file
+- **Delete Class** - Remove a class from the system
+- **Quit Program** - Exit the application
+
+## Class Features
+
+### Student Management
+- **Add Student** - Add a new student to the class (with option to import from file)
+- **Remove Student** - Remove a student from the class
+
+### Grade Tracking
+- **Add Grade** - Record a grade for a selected student
+- **View Students** - Display all students with individual and class averages
+
+### Additional Options
+- **View Student Details** - Select a student to view their complete grade history and statistics
+- **Save Student Grade** - Export individual student information to a text file
+- **Export All Students** - Save the entire class roster and grades to a text file
+- **View Class** - Display the name of the current class
+- **Rename Teacher** - Update the teacher's name
+- **Rename Class** - Change the class name
