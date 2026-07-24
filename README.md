@@ -1,6 +1,6 @@
 # Student-Database
 
-A comprehensive classroom management system that allows teachers to organize student information, track grades, and manage class data efficiently.
+A classroom management system that allows teachers to organize student information, track grades, and manage class data efficiently.
 
 ## Getting Started
 
